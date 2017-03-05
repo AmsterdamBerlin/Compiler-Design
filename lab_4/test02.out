@@ -1,0 +1,284 @@
+0x1b4e4d0
+0x1b54320
+0x1b4e738
+0x1b54398
+0x1b54408
+0x1b54490
+0x1b54508
+0x1b54578
+0x1b509a0
+0x1b50a18
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b50a18
+-----------------------
+old state info.  
+0x1b50a18 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b50a18 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54578
+-----------------------
+old state info.  
+0x1b54578 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54578 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54508
+-----------------------
+old state info.  
+0x1b54508 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54508 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54490
+-----------------------
+old state info.  
+0x1b54490 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1b54490 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54578
+-----------------------
+old state info.  
+0x1b54578 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54578 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54408
+-----------------------
+old state info.  
+0x1b54408 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54408 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54490
+-----------------------
+old state info.  
+0x1b54490 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1b54490 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54578
+-----------------------
+old state info.  
+0x1b54578 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54578 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54398
+-----------------------
+old state info.  
+0x1b54398 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54398 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54508
+-----------------------
+old state info.  
+0x1b54508 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b54508 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b4e738
+-----------------------
+old state info.  
+0x1b4e738 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b4e738 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b54320
+-----------------------
+old state info.  
+0x1b54320 -> overdefined
+Visit: Compare  
+-->--->--->-
+new state info.  
+0x1b54320 -> const i1 true
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b4e738
+-----------------------
+old state info.  
+0x1b4e738 -> overdefined
+Visit: Cast  
+-->--->--->-
+new state info.  
+0x1b4e738 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b4e4d0
+-----------------------
+old state info.  
+0x1b4e4d0 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1b4e4d0 -> const i32 5
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1b509a0
+-----------------------
+old state info.  
+0x1b509a0 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1b509a0 -> overdefined
+-----------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  %1 = add nsw i32 2, 3
+    -> const i32 5
+  %2 = icmp slt i32 2, 3
+    -> const i1 true
+  %3 = zext i1 %2 to i32
+    -> overdefined
+  %4 = sitofp i32 2 to float
+    -> overdefined
+  %5 = sitofp i32 2 to float
+    -> overdefined
+  %6 = fmul float %5, 0x40091EB860000000
+    -> overdefined
+  %7 = fpext float %4 to double
+    -> overdefined
+  %8 = fpext float %6 to double
+    -> overdefined
+  %9 = call i32 (i8*, ...)* @printf(i8* getelementptr inbounds ([13 x i8]* @.str, i32 0, i32 0), i32 %1, i32 %3, double %7, double %8)
+    -> overdefined
+  ret i32 0
+    -> overdefined

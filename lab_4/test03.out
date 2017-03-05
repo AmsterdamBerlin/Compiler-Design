@@ -1,0 +1,319 @@
+0x6edc60
+0x6edd08
+0x6edd90
+0x6ede20
+0x6ede98
+0x6edf20
+0x6edfb0
+0x6ee028
+0x6ee080
+0x6ee0e0
+0x6e8500
+0x6e8560
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8560
+-----------------------
+old state info.  
+0x6e8560 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8560 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee0e0
+-----------------------
+old state info.  
+0x6ee0e0 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee0e0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee080
+-----------------------
+old state info.  
+0x6ee080 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee080 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee028
+-----------------------
+old state info.  
+0x6ee028 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6ee028 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edfb0
+-----------------------
+old state info.  
+0x6edfb0 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x6edfb0 -> const i32 4
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee0e0
+-----------------------
+old state info.  
+0x6ee0e0 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee0e0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edf20
+-----------------------
+old state info.  
+0x6edf20 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x6edf20 -> const i32 2
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee080
+-----------------------
+old state info.  
+0x6ee080 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee080 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ede98
+-----------------------
+old state info.  
+0x6ede98 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6ede98 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ede20
+-----------------------
+old state info.  
+0x6ede20 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x6ede20 -> const i32 0
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee0e0
+-----------------------
+old state info.  
+0x6ee0e0 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee0e0 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edd90
+-----------------------
+old state info.  
+0x6edd90 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x6edd90 -> const i32 2
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee080
+-----------------------
+old state info.  
+0x6ee080 -> overdefined
+Visit: PHINode  
+-->--->--->-
+new state info.  
+0x6ee080 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e8500
+-----------------------
+old state info.  
+0x6e8500 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e8500 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edd08
+-----------------------
+old state info.  
+0x6edd08 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6edd08 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edc60
+-----------------------
+old state info.  
+0x6edc60 -> overdefined
+Visit: Compare  
+-->--->--->-
+new state info.  
+0x6edc60 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6edd08
+-----------------------
+old state info.  
+0x6edd08 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6edd08 -> overdefined
+-----------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  %1 = icmp ne i32 %pred, 0
+    -> overdefined
+  br i1 %1, label %2, label %5
+    -> overdefined
+  %3 = add nsw i32 1, 1
+    -> const i32 2
+  %4 = sub nsw i32 1, 1
+    -> const i32 0
+  br label %8
+    -> overdefined
+  %6 = sub nsw i32 3, 1
+    -> const i32 2
+  %7 = add nsw i32 3, 1
+    -> const i32 4
+  br label %8
+    -> overdefined
+  %k.0 = phi i32 [ %3, %2 ], [ %6, %5 ]
+    -> overdefined
+  %l.0 = phi i32 [ %4, %2 ], [ %7, %5 ]
+    -> overdefined
+  %9 = call i32 (i8*, ...)* @printf(i8* getelementptr inbounds ([7 x i8]* @.str, i32 0, i32 0), i32 %k.0, i32 %l.0)
+    -> overdefined
+  ret void
+    -> overdefined
+0x6ee620
+0x6e85d8
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6e85d8
+-----------------------
+old state info.  
+0x6e85d8 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6e85d8 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x6ee620
+-----------------------
+old state info.  
+0x6ee620 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x6ee620 -> overdefined
+-----------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  call void @test(i32 1)
+    -> overdefined
+  ret i32 0
+    -> overdefined

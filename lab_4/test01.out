@@ -1,0 +1,101 @@
+0x1d8a480
+0x1d8a510
+0x1d7c748
+0x1d8a3d8
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d8a3d8
+-----------------------
+old state info.  
+0x1d8a3d8 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1d8a3d8 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d7c748
+-----------------------
+old state info.  
+0x1d7c748 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1d7c748 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d8a510
+-----------------------
+old state info.  
+0x1d8a510 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1d8a510 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d7c748
+-----------------------
+old state info.  
+0x1d7c748 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1d7c748 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d8a480
+-----------------------
+old state info.  
+0x1d8a480 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1d8a480 -> const i32 2
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d8a510
+-----------------------
+old state info.  
+0x1d8a510 -> overdefined
+Visit: Binary Operator  
+-->--->--->-
+new state info.  
+0x1d8a510 -> const i32 3
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d7c748
+-----------------------
+old state info.  
+0x1d7c748 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1d7c748 -> overdefined
+-----------------------
+++++++++++++++++++++++++++
+check the worklist
+Checked Instruction: 0x1d7c748
+-----------------------
+old state info.  
+0x1d7c748 -> overdefined
+Visit: others 
+-->--->--->-
+new state info.  
+0x1d7c748 -> overdefined
+-----------------------
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  %1 = add nsw i32 1, 1
+    -> const i32 2
+  %2 = add nsw i32 %1, 1
+    -> const i32 3
+  %3 = call i32 (i8*, ...)* @printf(i8* getelementptr inbounds ([10 x i8]* @.str, i32 0, i32 0), i32 1, i32 %1, i32 %2)
+    -> overdefined
+  ret i32 0
+    -> overdefined

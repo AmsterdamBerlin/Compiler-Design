@@ -1,0 +1,289 @@
+0a1,264
+> 0x1b4e4d0
+> 0x1b54320
+> 0x1b4e738
+> 0x1b54398
+> 0x1b54408
+> 0x1b54490
+> 0x1b54508
+> 0x1b54578
+> 0x1b509a0
+> 0x1b50a18
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b50a18
+> -----------------------
+> old state info.  
+> 0x1b50a18 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b50a18 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54578
+> -----------------------
+> old state info.  
+> 0x1b54578 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54578 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54508
+> -----------------------
+> old state info.  
+> 0x1b54508 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54508 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54490
+> -----------------------
+> old state info.  
+> 0x1b54490 -> overdefined
+> Visit: Binary Operator  
+> -->--->--->-
+> new state info.  
+> 0x1b54490 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54578
+> -----------------------
+> old state info.  
+> 0x1b54578 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54578 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54408
+> -----------------------
+> old state info.  
+> 0x1b54408 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54408 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54490
+> -----------------------
+> old state info.  
+> 0x1b54490 -> overdefined
+> Visit: Binary Operator  
+> -->--->--->-
+> new state info.  
+> 0x1b54490 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54578
+> -----------------------
+> old state info.  
+> 0x1b54578 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54578 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54398
+> -----------------------
+> old state info.  
+> 0x1b54398 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54398 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54508
+> -----------------------
+> old state info.  
+> 0x1b54508 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b54508 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b4e738
+> -----------------------
+> old state info.  
+> 0x1b4e738 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b4e738 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b54320
+> -----------------------
+> old state info.  
+> 0x1b54320 -> overdefined
+> Visit: Compare  
+> -->--->--->-
+> new state info.  
+> 0x1b54320 -> const i1 true
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b4e738
+> -----------------------
+> old state info.  
+> 0x1b4e738 -> overdefined
+> Visit: Cast  
+> -->--->--->-
+> new state info.  
+> 0x1b4e738 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b4e4d0
+> -----------------------
+> old state info.  
+> 0x1b4e4d0 -> overdefined
+> Visit: Binary Operator  
+> -->--->--->-
+> new state info.  
+> 0x1b4e4d0 -> const i32 5
+> -----------------------
+> ++++++++++++++++++++++++++
+> check the worklist
+> Checked Instruction: 0x1b509a0
+> -----------------------
+> old state info.  
+> 0x1b509a0 -> overdefined
+> Visit: others 
+> -->--->--->-
+> new state info.  
+> 0x1b509a0 -> overdefined
+> -----------------------
+> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+6c270
+<     -> const i32 1
+---
+>     -> overdefined
+8c272
+<     -> const float 2.000000e+00
+---
+>     -> overdefined
+10c274
+<     -> const float 2.000000e+00
+---
+>     -> overdefined
+12c276
+<     -> const float 0x40191EB860000000
+---
+>     -> overdefined
+14c278
+<     -> const double 2.000000e+00
+---
+>     -> overdefined
+16c280
+<     -> const double 0x40191EB860000000
+---
+>     -> overdefined

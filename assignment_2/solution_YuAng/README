@@ -1,0 +1,5 @@
+several more errors are detected:
+    1) test5: material cannot access a state of light (rt_ShadingNormal*2)
+                  material cannot access a state ot camera (rt_HitDistance)
+                  
+    2) test7: material cannot access a state of camera (rt_ScreenCoord*2)  
